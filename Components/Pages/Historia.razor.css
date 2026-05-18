@@ -1,0 +1,28 @@
+﻿.pagina-historia {
+    padding: 40px;
+    background: #f8fafc;
+    min-height: 100vh;
+}
+
+.pagina-historia h1 {
+    text-align: center;
+    font-size: 42px;
+    color: #1e293b;
+    margin-bottom: 30px;
+}
+
+.conteudo-historia {
+    background: white;
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.conteudo-historia p {
+    font-size: 18px;
+    color: #334155;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}

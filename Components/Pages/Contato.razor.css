@@ -1,0 +1,25 @@
+﻿.pagina-contato {
+    padding: 40px;
+    text-align: center;
+}
+
+.pagina-contato h1 {
+    color: #1e293b;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.caixa-contato {
+    background: #1e293b;
+    color: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.caixa-contato p {
+    font-size: 18px;
+    margin: 15px 0;
+}
